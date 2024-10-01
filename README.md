@@ -1,5 +1,5 @@
 # undertale-pygame
-<p>Another UNDERTALE engine I'm working on. Bleh. But in Pygame this time.</p>
+<p>Another UNDERTALE engine I'm working on. Bleh. But in Pygame this time. I'm not as fluent in Python as I'd wish so I'm working on this project in hopes to improve my Python knowledge.</p>
 
 # Credits
 [bradensmediocregames](https://github.com/bradensMG/) - Programmer. </br>
